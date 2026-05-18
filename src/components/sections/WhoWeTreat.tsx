@@ -53,7 +53,7 @@ export default function WhoWeTreat() {
           </div>
 
           {/* NHS note */}
-          <Reveal
+          <div
             className="flex items-start gap-2.5 p-3.5 mt-5 bg-cobalt-wash rounded-r-lg
               text-[13px] text-text-body leading-[1.65]"
             style={{
@@ -86,7 +86,7 @@ export default function WhoWeTreat() {
               </a>
               .
             </span>
-          </Reveal>
+          </div>
         </div>
 
         {/* ── RIGHT: Compliance panel ───────────────────────── */}
