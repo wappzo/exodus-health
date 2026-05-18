@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── BASE LAYER ─────────────────────────────────────────────── */
+@layer base {
+  :root {
+    --font-dm-sans:  'DM Sans',          system-ui, sans-serif;
+    --font-dm-serif: 'DM Serif Display', Georgia,   serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply font-sans bg-ice text-text-navy antialiased;
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+
+  /* Remove default list styles in nav contexts */
+  nav ul { list-style: none; }
+
+  /* Smooth focus for keyboard users */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-cobalt rounded;
+  }
+
+  /* Skip link */
+  .skip-link {
+    @apply fixed -top-full left-0 z-[9999] px-5 py-3 bg-cobalt text-white
+           text-sm font-semibold transition-[top] duration-150;
+  }
+  .skip-link:focus { @apply top-0; }
+}
+
+/* ── COMPONENT LAYER ─────────────────────────────────────────── */
+@layer components {
+  /* Section eyebrow tag */
+  .sec-tag {
+    @apply inline-flex items-center gap-2 text-cobalt text-[11.5px]
+           font-bold uppercase tracking-[0.09em] mb-2.5;
+  }
+  .sec-tag::before {
+    content: '';
+    @apply block w-5 h-0.5 bg-cobalt rounded-full flex-shrink-0;
+  }
+  .sec-tag--light {
+    @apply text-cobalt-light;
+  }
+  .sec-tag--light::before {
+    @apply bg-cobalt-light;
+  }
+
+  /* Scroll-reveal utility (toggled by IntersectionObserver) */
+  .reveal {
+    @apply opacity-0 translate-y-4
+           transition-[opacity,transform] duration-[550ms] ease-out;
+  }
+  .reveal.in-view {
+    @apply opacity-100 translate-y-0;
+  }
+
+  /* Navy hero grid overlay */
+  .hero-grid-overlay {
+    background-image:
+      linear-gradient(rgba(194,217,249,0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(194,217,249,0.04) 1px, transparent 1px);
+    background-size: 52px 52px;
+  }
+}
+
+/* ── UTILITY LAYER ────────────────────────────────────────────── */
+@layer utilities {
+  /* Staggered reveal delays */
+  .delay-d1 { transition-delay:  70ms; }
+  .delay-d2 { transition-delay: 140ms; }
+  .delay-d3 { transition-delay: 210ms; }
+  .delay-d4 { transition-delay: 280ms; }
+  .delay-d5 { transition-delay: 350ms; }
+
+  /* Text clamp helpers */
+  .text-clamp-hero { font-size: clamp(2.375rem, 4.6vw, 3.75rem); }
+  .text-clamp-h2   { font-size: clamp(1.625rem, 3vw,   2.5rem);  }
+  .text-clamp-h3   { font-size: clamp(1.25rem,  2.2vw, 1.625rem);}
+}

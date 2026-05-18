@@ -1,0 +1,494 @@
+{
+  "nodes": [
+    {
+      "id": "file::next_config",
+      "label": "next.config.js",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/next.config.js",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/next.config.js:1"
+    },
+    {
+      "id": "next_config::headers",
+      "label": "headers",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/next.config.js",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/next.config.js:13"
+    },
+    {
+      "id": "file::tailwind_config",
+      "label": "tailwind.config.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/tailwind.config.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/tailwind.config.ts:1"
+    },
+    {
+      "id": "file::postcss_config",
+      "label": "postcss.config.js",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/postcss.config.js",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/postcss.config.js:1"
+    },
+    {
+      "id": "file::index",
+      "label": "index.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/types/index.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/types/index.ts:1"
+    },
+    {
+      "id": "file::robots",
+      "label": "robots.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/robots.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/robots.ts:1"
+    },
+    {
+      "id": "robots::robots",
+      "label": "robots",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/robots.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/robots.ts:4"
+    },
+    {
+      "id": "file::sitemap",
+      "label": "sitemap.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/sitemap.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/sitemap.ts:1"
+    },
+    {
+      "id": "sitemap::sitemap",
+      "label": "sitemap",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/sitemap.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/sitemap.ts:4"
+    },
+    {
+      "id": "file::layout",
+      "label": "layout.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/layout.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/layout.tsx:1"
+    },
+    {
+      "id": "layout::rootlayout",
+      "label": "RootLayout",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/layout.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/layout.tsx:111"
+    },
+    {
+      "id": "file::loading",
+      "label": "loading.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/loading.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/loading.tsx:1"
+    },
+    {
+      "id": "file::page",
+      "label": "page.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/page.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/page.tsx:1"
+    },
+    {
+      "id": "page::homepage",
+      "label": "HomePage",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/page.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/page.tsx:31"
+    },
+    {
+      "id": "file::not_found",
+      "label": "not-found.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/not-found.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/not-found.tsx:1"
+    },
+    {
+      "id": "not_found::notfound",
+      "label": "NotFound",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/not-found.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/not-found.tsx:10"
+    },
+    {
+      "id": "file::logomark",
+      "label": "LogoMark.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/LogoMark.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/LogoMark.tsx:1"
+    },
+    {
+      "id": "logomark::logomark",
+      "label": "LogoMark",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/LogoMark.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/LogoMark.tsx:7"
+    },
+    {
+      "id": "file::sectiontag",
+      "label": "SectionTag.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/SectionTag.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/SectionTag.tsx:1"
+    },
+    {
+      "id": "sectiontag::sectiontag",
+      "label": "SectionTag",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/SectionTag.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/SectionTag.tsx:9"
+    },
+    {
+      "id": "file::button",
+      "label": "Button.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Button.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Button.tsx:1"
+    },
+    {
+      "id": "button::cn",
+      "label": "cn",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Button.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Button.tsx:35"
+    },
+    {
+      "id": "file::reveal",
+      "label": "Reveal.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Reveal.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Reveal.tsx:1"
+    },
+    {
+      "id": "reveal::reveal",
+      "label": "Reveal",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Reveal.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Reveal.tsx:22"
+    },
+    {
+      "id": "file::hero",
+      "label": "Hero.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Hero.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Hero.tsx:1"
+    },
+    {
+      "id": "file::contactstrip",
+      "label": "ContactStrip.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx:1"
+    },
+    {
+      "id": "contactstrip::contactcell",
+      "label": "ContactCell",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx:4"
+    },
+    {
+      "id": "contactstrip::contactstrip",
+      "label": "ContactStrip",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx:41"
+    },
+    {
+      "id": "file::howitworks",
+      "label": "HowItWorks.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/HowItWorks.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/HowItWorks.tsx:1"
+    },
+    {
+      "id": "file::services",
+      "label": "Services.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Services.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Services.tsx:1"
+    },
+    {
+      "id": "services::servicecard",
+      "label": "ServiceCard",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Services.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Services.tsx:9"
+    },
+    {
+      "id": "file::whowetreat",
+      "label": "WhoWeTreat.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/WhoWeTreat.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/WhoWeTreat.tsx:1"
+    },
+    {
+      "id": "file::contactcta",
+      "label": "ContactCTA.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactCTA.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactCTA.tsx:1"
+    },
+    {
+      "id": "file::testimonials",
+      "label": "Testimonials.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Testimonials.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Testimonials.tsx:1"
+    },
+    {
+      "id": "file::introband",
+      "label": "IntroBand.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/IntroBand.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/IntroBand.tsx:1"
+    },
+    {
+      "id": "file::doctors",
+      "label": "Doctors.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Doctors.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Doctors.tsx:1"
+    },
+    {
+      "id": "file::navbar",
+      "label": "Navbar.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx:1"
+    },
+    {
+      "id": "Navbar::handlescroll",
+      "label": "handleScroll",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx:15"
+    },
+    {
+      "id": "Navbar::handlekey",
+      "label": "handleKey",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx:22"
+    },
+    {
+      "id": "file::accessbar",
+      "label": "AccessBar.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/AccessBar.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/AccessBar.tsx:1"
+    },
+    {
+      "id": "file::footer",
+      "label": "Footer.tsx",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Footer.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Footer.tsx:1"
+    },
+    {
+      "id": "file::usereveal",
+      "label": "useReveal.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/hooks/useReveal.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/hooks/useReveal.ts:1"
+    },
+    {
+      "id": "usereveal::usereveal",
+      "label": "useReveal",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/hooks/useReveal.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/hooks/useReveal.ts:10"
+    },
+    {
+      "id": "file::data",
+      "label": "data.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/data.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/data.ts:1"
+    },
+    {
+      "id": "file::utils",
+      "label": "utils.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/utils.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/utils.ts:1"
+    },
+    {
+      "id": "utils::cn",
+      "label": "cn",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/utils.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/utils.ts:5"
+    },
+    {
+      "id": "file::constants",
+      "label": "constants.ts",
+      "fileType": "code",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/constants.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/constants.ts:1"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file::next_config",
+      "target": "next_config::headers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/next.config.js",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/next.config.js:13",
+      "weight": 1
+    },
+    {
+      "source": "file::robots",
+      "target": "robots::robots",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/robots.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/robots.ts:4",
+      "weight": 1
+    },
+    {
+      "source": "file::sitemap",
+      "target": "sitemap::sitemap",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/sitemap.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/sitemap.ts:4",
+      "weight": 1
+    },
+    {
+      "source": "file::layout",
+      "target": "layout::rootlayout",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/layout.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/layout.tsx:111",
+      "weight": 1
+    },
+    {
+      "source": "file::page",
+      "target": "page::homepage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/page.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/page.tsx:31",
+      "weight": 1
+    },
+    {
+      "source": "file::not_found",
+      "target": "not_found::notfound",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/not-found.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/app/not-found.tsx:10",
+      "weight": 1
+    },
+    {
+      "source": "file::logomark",
+      "target": "logomark::logomark",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/LogoMark.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/LogoMark.tsx:7",
+      "weight": 1
+    },
+    {
+      "source": "file::sectiontag",
+      "target": "sectiontag::sectiontag",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/SectionTag.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/SectionTag.tsx:9",
+      "weight": 1
+    },
+    {
+      "source": "file::button",
+      "target": "button::cn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Button.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Button.tsx:35",
+      "weight": 1
+    },
+    {
+      "source": "file::reveal",
+      "target": "reveal::reveal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Reveal.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/ui/Reveal.tsx:22",
+      "weight": 1
+    },
+    {
+      "source": "file::contactstrip",
+      "target": "contactstrip::contactcell",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx:4",
+      "weight": 1
+    },
+    {
+      "source": "file::contactstrip",
+      "target": "contactstrip::contactstrip",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/ContactStrip.tsx:41",
+      "weight": 1
+    },
+    {
+      "source": "file::services",
+      "target": "services::servicecard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Services.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/sections/Services.tsx:9",
+      "weight": 1
+    },
+    {
+      "source": "file::navbar",
+      "target": "Navbar::handlescroll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx:15",
+      "weight": 1
+    },
+    {
+      "source": "file::navbar",
+      "target": "Navbar::handlekey",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/components/layout/Navbar.tsx:22",
+      "weight": 1
+    },
+    {
+      "source": "file::usereveal",
+      "target": "usereveal::usereveal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/hooks/useReveal.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/hooks/useReveal.ts:10",
+      "weight": 1
+    },
+    {
+      "source": "file::utils",
+      "target": "utils::cn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "sourceFile": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/utils.ts",
+      "sourceLocation": "/Users/selvinfernandes/Desktop/Projects/React/exodus-blue/src/lib/utils.ts:5",
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "files": 32,
+    "nodes": 47,
+    "edges": 17,
+    "builtAt": "2026-05-17T17:07:37.712Z"
+  }
+}
