@@ -61,7 +61,7 @@ export default function Testimonials() {
               <blockquote
                 className={cn(
                   'text-[14.5px] italic leading-[1.68] flex-1 mb-[18px]',
-                  tc.featured ? 'text-white/88' : 'text-text-navy',
+                  tc.featured ? 'text-white' : 'text-text-navy',
                 )}
               >
                 {tc.quote}
