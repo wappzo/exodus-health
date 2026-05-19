@@ -27,8 +27,8 @@ export const SITE = {
 
   hours: {
     weekdays: 'Saturday  9am – 3pm',
-    saturday: 'Closed',
-    sunday:   'Closed',
+    saturday: '',
+    sunday:   '',
   },
 
   regulatory: {
