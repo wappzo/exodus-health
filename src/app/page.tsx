@@ -14,7 +14,7 @@ import Services     from '@/components/sections/Services'
 import HowItWorks   from '@/components/sections/HowItWorks'
 import WhoWeTreat   from '@/components/sections/WhoWeTreat'
 import Doctors      from '@/components/sections/Doctors'
-import Testimonials from '@/components/sections/Testimonials'
+// import Testimonials from '@/components/sections/Testimonials'
 import ContactCTA   from '@/components/sections/ContactCTA'
 
 /* ── Page-level SEO override ──────────────────────────────────
