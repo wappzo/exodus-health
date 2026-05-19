@@ -16,9 +16,7 @@ export default function Footer() {
           {/* Brand column */}
           <div>
             <a href="/" className="inline-flex items-center gap-2.5 no-underline mb-4" aria-label={`${SITE.name} — Home`}>
-              <div className="w-[30px] h-[30px] rounded-[8px] bg-cobalt flex items-center justify-center flex-shrink-0">
-                <LogoMark className="w-[15px] h-[15px] fill-white" />
-              </div>
+              <LogoMark variant="navy" className="w-8 h-8 flex-shrink-0" />
               <span className="text-[18px] font-bold text-[#E8F1FD]">{SITE.name}</span>
             </a>
             <p className="text-[13px] text-text-soft leading-[1.72] max-w-[220px] mb-4">

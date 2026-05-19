@@ -36,26 +36,29 @@ export default function Navbar() {
       )}
       aria-label="Main navigation"
     >
-      <div className="max-w-content mx-auto px-[6vw] h-[72px] flex items-center justify-between gap-6">
+      <div className="max-w-content mx-auto px-[6vw] h-[84px] flex items-center justify-between gap-4">
 
-        {/* Logo */}
-        <a href="/" className="flex items-center gap-2.5 no-underline flex-shrink-0" aria-label={`${SITE.name} — Home`}>
-          <div className="w-10 h-10 rounded-[10px] bg-navy-900 flex items-center justify-center flex-shrink-0">
-            <LogoMark className="w-[22px] h-[22px] fill-cobalt-pale" />
-          </div>
-          <div className="flex flex-col leading-none">
-            <span className="text-[18px] font-bold text-navy-900 tracking-[-0.2px]">{SITE.name}</span>
-            <span className="text-[10px] font-semibold text-cobalt uppercase tracking-[0.08em] mt-0.5">{SITE.tagline}</span>
+        {/* Logo — matches brand card: icon · "Exodus"(cobalt serif) · "Health"(navy bold serif) · tagline(sentence-case) */}
+        <a href="/" className="flex items-center gap-3.5 no-underline flex-shrink-0" aria-label={`${SITE.name} — Home`}>
+          <LogoMark variant="light" className="w-14 h-14 flex-shrink-0" />
+          <div className="flex flex-col justify-center leading-none gap-[5px]">
+            <div className="leading-none">
+              <span className="font-display text-[22px] font-bold text-cobalt">Exodus&nbsp;</span>
+              <span className="font-display text-[22px] font-bold text-navy-900">Health</span>
+            </div>
+            <span className="font-sans text-[9px] font-bold text-text-mid tracking-[0] leading-none">
+              {SITE.tagline}
+            </span>
           </div>
         </a>
 
         {/* Desktop links */}
-        <ul className="hidden lg:flex gap-0.5" role="list">
+        <ul className="hidden lg:flex gap-0" role="list">
           {NAV_LINKS.map(({ label, href }) => (
             <li key={href}>
               <a
                 href={href}
-                className="block px-4 py-2 text-[14px] font-medium text-text-body rounded-[6px]
+                className="block px-3 py-2 text-[13.5px] font-medium text-text-body rounded-[6px] whitespace-nowrap
                   hover:bg-cobalt-wash hover:text-navy-900 transition-colors duration-150 no-underline
                   focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cobalt"
               >

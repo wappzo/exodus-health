@@ -21,18 +21,18 @@ const REGISTRATIONS = [
     desc:  'All our doctors hold a current GMC licence to practise, verified on an ongoing basis.',
     emoji: '⚕️',
   },
-  {
-    label: 'NMC — Nursing & Midwifery Council',
-    href:  'https://www.nmc.org.uk',
-    desc:  'Our nursing staff are registered with the NMC and adhere to the NMC Code of Conduct.',
-    emoji: '🩺',
-  },
-  {
-    label: 'BDA — British Dietetic Association',
-    href:  'https://www.bda.uk.com',
-    desc:  'Dietary management is led by BDA-registered dietitians using evidence-based nutritional practice.',
-    emoji: '🥗',
-  },
+  // {
+  //   label: 'NMC — Nursing & Midwifery Council',
+  //   href:  'https://www.nmc.org.uk',
+  //   desc:  'Our nursing staff are registered with the NMC and adhere to the NMC Code of Conduct.',
+  //   emoji: '🩺',
+  // },
+  // {
+  //   label: 'BDA — British Dietetic Association',
+  //   href:  'https://www.bda.uk.com',
+  //   desc:  'Dietary management is led by BDA-registered dietitians using evidence-based nutritional practice.',
+  //   emoji: '🥗',
+  // },
 ]
 
 export default function AboutPage() {
@@ -197,7 +197,7 @@ export default function AboutPage() {
             </div>
 
             {/* CQC chip */}
-            <Reveal>
+            {/* <Reveal>
               <div
                 className="mt-8 flex items-start gap-4 p-5 rounded-2xl max-w-[640px]"
                 style={{ background: 'rgba(30,111,217,.06)', border: '1px solid rgba(30,111,217,.14)' }}
@@ -214,7 +214,7 @@ export default function AboutPage() {
                   </p>
                 </div>
               </div>
-            </Reveal>
+            </Reveal> */}
           </div>
         </section>
 

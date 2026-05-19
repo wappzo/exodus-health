@@ -42,7 +42,7 @@ export default function HomePage() {
         <HowItWorks />
         <WhoWeTreat />
         <Doctors />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <ContactCTA />
       </main>
 

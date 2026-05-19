@@ -120,7 +120,7 @@ export default function Hero() {
           </div>
 
           {/* ── Right: video ───────────────────────────────────── */}
-          <div className="flex-shrink-0 w-full lg:w-[500px] animate-fadeup">
+          <div hidden className="flex-shrink-0 w-full lg:w-[500px] animate-fadeup">
 
             {/* Label above video */}
             <div className="flex items-center gap-2 mb-3">

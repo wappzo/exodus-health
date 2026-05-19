@@ -19,7 +19,7 @@ export const SERVICES: Service[] = [
     emoji:    '🔬',
     title:    'Diagnosis',
     headline: 'Getting your diagnosis right, from the start.',
-    body:     'An accurate diagnosis is the foundation of all good diabetes management. Our specialists conduct thorough assessments — including HbA1c, fasting glucose, OGTT, and full clinical history — to confirm your diagnosis and diabetes type with confidence.',
+    body:     'An accurate diagnosis is the foundation of all good diabetes management. Our specialists conduct thorough assessments — including HbA1c, fasting glucose, and full clinical history — to confirm your diagnosis and diabetes type with confidence.',
   },
   {
     id:       'initial-management',
@@ -80,9 +80,9 @@ export const SERVICES: Service[] = [
 ]
 
 export const STATS: Stat[] = [
-  { value: '28,000+', label: 'Patients seen across the UK' },
-  { value: '4.9 / 5', label: 'Patient satisfaction score' },
-  { value: '12',      label: 'GMC-registered specialists' },
+  // { value: '28,000+', label: 'Patients seen across the UK' },
+  // { value: '4.9 / 5', label: 'Patient satisfaction score' },
+  { value: '1',      label: 'GMC-registered specialists' },
   { value: '2–5 days',label: 'Average wait for appointment' },
 ]
 
@@ -98,7 +98,7 @@ export const CONTACT_ITEMS: ContactItem[] = [
     emoji: '✉️',
     label: 'Email',
     value: SITE.email,
-    sub:   'Response within 4 working hours',
+    sub:   'Response within 1 business day',
     href:  SITE.emailHref,
   },
   {
@@ -111,7 +111,7 @@ export const CONTACT_ITEMS: ContactItem[] = [
     emoji: '🗓️',
     label: 'Hours',
     value: SITE.hours.weekdays,
-    sub:   `${SITE.hours.saturday} · Sunday closed`,
+    sub:   '', //`${SITE.hours.saturday} · Sunday closed`,
   },
 ]
 
@@ -163,37 +163,37 @@ export const COMPLIANCE_ITEMS: ComplianceItem[] = [
 
 export const DOCTORS: Doctor[] = [
   {
-    id:             'mehta',
-    name:           'Dr. Anjali Mehta',
-    role:           'Consultant Diabetologist',
-    emoji:          '👩‍⚕️',
-    qualifications: "MBBS, MRCP (UK) · 12 years · Former NHS Consultant, King's College Hospital London",
+    id:             'aiyappa',
+    name:           'Dr. Aiyappa Biddanda',
+    role:           'Consultant Endocrinologist',
+    emoji:          '👨‍⚕️',
+    qualifications: "Consultant Endocrinologist, MRCP MSc",
     tags:           ['Type 1 & 2', 'GLP-1 therapy', 'Insulin optimisation'],
   },
-  {
-    id:             'whitfield',
-    name:           'Dr. James Whitfield',
-    role:           'GP with Diabetes Specialism',
-    emoji:          '👨‍⚕️',
-    qualifications: 'MBChB, MRCGP (Dist.) · 9 years · NHS Clinical Lead, Diabetes & Metabolic Health, Manchester',
-    tags:           ['Type 2', 'Pre-diabetes', 'Metabolic health'],
-  },
-  {
-    id:             'nair',
-    name:           'Dr. Priya Nair',
-    role:           'Endocrinologist & Diabetologist',
-    emoji:          '👩‍⚕️',
-    qualifications: 'MD, FRCP · 14 years · Gestational diabetes specialist, UCL NHS Trust London',
-    tags:           ['Gestational diabetes', 'MODY'],
-  },
-  {
-    id:             'osei',
-    name:           'Dr. Samuel Osei',
-    role:           'Internal Medicine & Diabetes',
-    emoji:          '👨‍⚕️',
-    qualifications: 'MD, MSc Endocrinology · 11 years · Complex T1DM & insulin optimisation, Birmingham NHS Trust',
-    tags:           ['Type 1 complex care', 'HbA1c management'],
-  },
+  // {
+  //   id:             'whitfield',
+  //   name:           'Dr. James Whitfield',
+  //   role:           'GP with Diabetes Specialism',
+  //   emoji:          '👨‍⚕️',
+  //   qualifications: 'MBChB, MRCGP (Dist.) · 9 years · NHS Clinical Lead, Diabetes & Metabolic Health, Manchester',
+  //   tags:           ['Type 2', 'Pre-diabetes', 'Metabolic health'],
+  // },
+  // {
+  //   id:             'nair',
+  //   name:           'Dr. Priya Nair',
+  //   role:           'Endocrinologist & Diabetologist',
+  //   emoji:          '👩‍⚕️',
+  //   qualifications: 'MD, FRCP · 14 years · Gestational diabetes specialist, UCL NHS Trust London',
+  //   tags:           ['Gestational diabetes', 'MODY'],
+  // },
+  // {
+  //   id:             'osei',
+  //   name:           'Dr. Samuel Osei',
+  //   role:           'Internal Medicine & Diabetes',
+  //   emoji:          '👨‍⚕️',
+  //   qualifications: 'MD, MSc Endocrinology · 11 years · Complex T1DM & insulin optimisation, Birmingham NHS Trust',
+  //   tags:           ['Type 1 complex care', 'HbA1c management'],
+  // },
 ]
 
 export const TESTIMONIALS: Testimonial[] = [
